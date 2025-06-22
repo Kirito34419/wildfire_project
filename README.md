@@ -92,4 +92,4 @@ This project is intended for academic and educational purposes. MIT License.
 Developer Notes:
 -----------------
 This system was built as part of a college project to demonstrate the real-world integration of satellite data, weather APIs, and machine learning into an interactive web app using Python. Contributions and feedback are welcome!
-
+The model has been trained using the data from nasa

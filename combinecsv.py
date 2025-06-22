@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 
 # Path to your folder
-csv_files = glob.glob("/home/unknown/Csv/*.csv")
+csv_files = glob.glob("/home/user/Csv/*.csv")
 
 # Combine all CSVs
 df_list = []

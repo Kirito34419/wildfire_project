@@ -4,8 +4,8 @@ import os
 
 # Load .env credentials
 load_dotenv()
-username = os.getenv('unknownjdwowq')
-password = os.getenv("'atW;'H:7Wi%B88")
+username = os.getenv('')
+password = os.getenv("")
 
 def download_firms_data():
     url = "https://firms.modaps.eosdis.nasa.gov/api/country/csv/SUOMI_VIIRS_SNPP_NRT/world/1/VIIRS_SNPP_NRT_Global_24h.csv"

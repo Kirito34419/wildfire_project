@@ -92,4 +92,4 @@ This project is intended for academic and educational purposes. MIT License.
 Developer Notes:
 -----------------
 This system was built as part of a college project to demonstrate the real-world integration of satellite data, weather APIs, and machine learning into an interactive web app using Python. Contributions and feedback are welcome!
-The model has been trained using the data from nasa
+The model has been trained using the data from NASA using download_fire_data.py using the data range from 2017 to 2023 for training and 2024 to 2025 for testing. If required, please change the value in the file and download and combine the files using the combinecsv.py and train the model.

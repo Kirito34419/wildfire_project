@@ -48,12 +48,12 @@ st.markdown("""
 st.title("🔥 Global Wildfire Risk & Real-Time Fire Alert System")
 
 try:
-    ee.Initialize(project='wildfiredetector')
+    ee.Initialize(project='projectname')
 except Exception as e:
     st.error(f"Earth Engine initialization failed: {e}")
     st.stop()
 
-OPENWEATHER_API_KEY = "ad65aa96b1ba6f7c9a66eb1e0ccdf104"
+OPENWEATHER_API_KEY = "apikey"
 
 # Map UI controls (floating row)
 col1, col2, col3 = st.columns([1, 1, 2])

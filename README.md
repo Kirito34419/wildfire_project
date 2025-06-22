@@ -3,7 +3,7 @@
 
 Overview:
 ----------
-This project is a Streamlit-based web application designed to monitor, analyze, and predict wildfires in real time across the globe. It combines satellite data from Google Earth Engine with live weather data and a trained machine learning model to identify fire-prone areas and visualize predicted fire spread directions.
+This project is a Streamlit-based web application designed to monitor, analyze, and predict wildfires in real time across the globe. It combines satellite data from Google Earth Engine with live weather data and a trained machine learning model to identify areas prone to fires and visualize predicted fire spread directions.
 
 Key Features:
 --------------
@@ -37,7 +37,7 @@ pip install streamlit earthengine-api folium streamlit-folium geopy requests job
 Setup Instructions:
 --------------------
 1. Clone the repository:
-   git clone https://github.com/yourusername/wildfire-detection-app.git
+   git clone https://github.com/Kirito34419/wildfire_project.git
    cd wildfire-detection-app
 
 2. Authenticate Google Earth Engine:

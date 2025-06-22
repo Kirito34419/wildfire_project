@@ -87,7 +87,7 @@ Notes:
 
 License:
 ---------
-This project is intended for academic and educational purposes. Please update the license as appropriate for your usage.
+This project is intended for academic and educational purposes. MIT License.
 
 Developer Notes:
 -----------------

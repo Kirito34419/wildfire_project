@@ -7,7 +7,7 @@ import joblib
 import os
 
 # Load the training data
-data = pd.read_csv('/home/unknown/wildfire_project/global_fire_training_data.csv')
+data = pd.read_csv('/home/user/wildfire_project/global_fire_training_data.csv')
 
 # Drop rows with missing or extreme values (optional cleanup)
 data = data.replace([np.inf, -np.inf], np.nan).dropna()
